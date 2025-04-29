@@ -1,4 +1,6 @@
 # OSUN_ELECTIONS_DATA_ANALYSIS
+![image](https://github.com/user-attachments/assets/b383f396-058d-41ed-b942-8346efedfa58)
+
 **TITLE;**  <br>
 Osun State Electoral Analysis 2014-2022
 
@@ -38,6 +40,8 @@ Data Transparency: The project enhanced data transparency within the organizatio
 Data-Driven Culture: The project contributed to fostering a data-driven culture within Northwind Traders Enterprise, emphasizing the importance of data analysis in strategic decision-making.
 
 In conclusion, the "Osun State Electoral Analysis 2014-2022" project successfully harnessed the capabilities of Power BI to transform raw data into actionable insights. This project not only provided valuable historical performance insights but also paved the way for a more data-informed approach to managing the company's operations.
+![image](https://github.com/user-attachments/assets/6e20be30-5f42-4ec6-86e2-9e2883a187d5)
+
 
 **TECHNOLOGIES USED:**  <br>
 Power BI Desktop
