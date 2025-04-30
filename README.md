@@ -1,14 +1,15 @@
 # OSUN_ELECTIONS_DATA_ANALYSIS
-![image](https://github.com/user-attachments/assets/b383f396-058d-41ed-b942-8346efedfa58)
+![image](https://github.com/user-attachments/assets/f4a01a08-7d82-46bc-aa62-61779558a2cc)
+
 
 **TITLE;**  <br>
 Osun State Electoral Analysis 2014-2022
 
 **PROJECT OVERVIEW:**  <br>
-The "Osun State Electoral Analysis 2014-2022" repository contains a comprehensive general elections analysis project developed using Power BI. The project aimed to analyze voting trends between different local government areas data from multiple sources and present insights through intuitive visualizations and interactive dashboards.
+The "Osun Polls Analysis -2022" repository contains a comprehensive general elections analysis project developed using Power BI. The project aimed to analyze voting trends between different local government areas data from multiple sources and present insights through intuitive visualizations and interactive dashboards.
 
 **OBJECTIVE:**  <br>
-Evaluate the Osun State Electoral Analysis 2014-2022 in terms of key performance indicators (KPIs). Identify trends, patterns and anomalies in the company's performance data over time. Generate actionable insights to inform data-driven decision-making. Enhance data transparency and accessibiity for stakeholders.
+Evaluate the Osun Polls Analysis -2022 in terms of key performance indicators (KPIs). Identify trends, patterns and anomalies in the company's performance data over time. Generate actionable insights to inform data-driven decision-making. Enhance data transparency and accessibiity for stakeholders.
 
 **DATA EXTRACTION:**  <br>
 Consolidation of election data from multiple sources to create a unified and clean dataset. 
@@ -31,7 +32,7 @@ Filtering and Slicing: Implemented dynamic filtering and slicing options for use
 
 **PROJECT OUTCOMES**  <br>
 
-Clear Insights: The project provided a clear picture of how Ekiti State Electoral Analysis 2014-2022 had performed over the specified time period. allowing stakeholders to make informed decisions based on historical data.
+Clear Insights: The project provided a clear picture of how Osun State Electoral Analysis in 2022 had performed over the specified time period. allowing stakeholders to make informed decisions based on historical data.
 
 Improved Decision-Making: The interactive Power BI dashboard empowered decision-makers to identify areas for improvement, allocate resources effectively, and set realistic performance targets.
 
@@ -39,8 +40,9 @@ Data Transparency: The project enhanced data transparency within the organizatio
 
 Data-Driven Culture: The project contributed to fostering a data-driven culture within Northwind Traders Enterprise, emphasizing the importance of data analysis in strategic decision-making.
 
-In conclusion, the "Osun State Electoral Analysis 2014-2022" project successfully harnessed the capabilities of Power BI to transform raw data into actionable insights. This project not only provided valuable historical performance insights but also paved the way for a more data-informed approach to managing the company's operations.
-![image](https://github.com/user-attachments/assets/6e20be30-5f42-4ec6-86e2-9e2883a187d5)
+In conclusion, the "Osun State Polls Analysis -2022" project successfully harnessed the capabilities of Power BI to transform raw data into actionable insights. This project not only provided valuable historical performance insights but also paved the way for a more data-informed approach
+![image](https://github.com/user-attachments/assets/be929806-ce29-431f-96f8-aaee82564ab5)
+
 
 
 **TECHNOLOGIES USED:**  <br>
