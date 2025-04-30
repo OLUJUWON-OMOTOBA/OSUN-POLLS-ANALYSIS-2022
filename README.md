@@ -46,7 +46,7 @@ In conclusion, the "Osun State Polls Analysis -2022" project successfully harnes
 
 
 **TECHNOLOGIES USED:**  <br>
-Power BI Desktop
+Power BI Desktop, 
 SQL for data extraction and transformation
 
 **PROJECT STRUCTURE:** <br>
